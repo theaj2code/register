@@ -1,0 +1,12 @@
+{
+    "description": "Govind's personal developer website",
+    "repo": "https://github.com/theajk",
+    "owner": {
+      "username": "techtheaj",
+      "email": "techtheaj@gmail.com"
+    },
+    "record": {
+      "CNAME": "theajk.github.io"
+    }
+  }
+  
